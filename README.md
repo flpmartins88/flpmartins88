@@ -1,6 +1,6 @@
 Oi,
 
-Trabalho com desenvolvimento desde 2009. Até 2018 eu era um dev fullstack, depois passei a trabalhar apenas com backend (minha paixão).
+Trabalho com desenvolvimento desde 2009. Até 2018 eu era um dev fullstack, depois passei a trabalhar apenas com backend.
 
 Basicamente a maior parte do tempo programei em Java usando Spring Framework.
 
